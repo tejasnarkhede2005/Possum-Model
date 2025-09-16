@@ -98,6 +98,6 @@ elif page == "About":
     - chest (chest girth)
     - belly (belly girth)
 
-    **Author**: Maruti Margale  
-    **Email**: margalemaruti3@gmail.com  
+    **Author**: Tejas Narkhede
+    **Email**: tejasnarkhede03@gmail.com  
     """)
